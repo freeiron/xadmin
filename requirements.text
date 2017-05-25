@@ -1,0 +1,17 @@
+aliyun-python-sdk-core==2.3.1
+aliyun-python-sdk-cs==2.1.2
+aliyun-python-sdk-ecs==3.0.0
+appdirs==1.4.3
+blessings==1.6
+bpython==0.16
+curtsies==0.2.11
+Django==1.11
+djangorestframework==3.6.2
+greenlet==0.4.12
+packaging==16.8
+Pygments==2.2.0
+pyparsing==2.2.0
+pytz==2017.2
+requests==2.13.0
+six==1.10.0
+wcwidth==0.1.7

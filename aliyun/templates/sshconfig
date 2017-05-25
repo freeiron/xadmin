@@ -1,0 +1,8 @@
+{% for host in hosts %}
+Host {{ host.hostname }}
+    HostName {{ host.ipadd_internet }}
+    Port {{ host.ssh_port }}
+    User admin
+        IdentityFile ~/.ssh/aliyun-admin2.pem
+        ForwardAgent  yes
+{% endfor %}
